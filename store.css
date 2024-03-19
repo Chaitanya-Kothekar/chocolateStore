@@ -232,3 +232,48 @@ button {
   margin-left: -120px;
     position: absolute;
    }
+   /* reponsive */
+   @media (max-width:500px){
+    .chocoFont {
+        
+        padding: 1%;
+        font-size: 39px;
+        /* color:rgb(87, 36, 4); */
+        margin-left: 1%;
+
+        padding-top: 26%;
+    }
+    .chocoFont2{
+        font-size: 31px;
+        margin-top: 29%;
+        margin-left:  2px;
+        margin-right:  2px;
+    }
+    .cocoBall {
+        width: 210px;
+        margin-left: 21%;
+        margin-top: 24%;
+    }
+    .link{
+        display: none;
+    }
+    .cocoLogo{
+    
+            margin-top: -3px;
+            margin-right: 5px;
+            height: 30px;
+            width: 35px;
+        
+    }
+    .UpperBody {
+        height: 450px;
+    
+    }
+    .container2 {
+        height: 300px;
+        width: 90%;
+        margin-left: -27%;
+        margin-Right: 5%;
+        margin-top: -19%;
+    }
+   }
