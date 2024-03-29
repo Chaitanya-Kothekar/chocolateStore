@@ -23,7 +23,7 @@
             <a class="link" href="#whiteCont1"><div class="centerMenu">Shop</div></a>
         </div>
         <div class="rightNavCont">
-            <div class="cart"><i class="ri-shopping-cart-fill ri-2x cart"></i></div>
+            <div class="cart"><i class="ri-shopping-cart-fill ri-2x cart"></i><span class="cartSpan">0</span></div>
         </div>
     </div>
     <div class="UpperBody">
@@ -33,10 +33,30 @@
     </div>
     <div class="container2">
         <img class="glass" src="./images/Cadbury_MilkPourMaster.png" alt="">
-        <video src="./images/Cadbury_MilkPourMaster.gif"></video>
+        <video src="./images/Cadbury_MilkPourMaster.png"></video>
     </div>
     <div id="whiteCont1" class="whiteCont">
         <div id="Brandcards">
+        </div>
+        <!-- slider cart section -->
+        <div class="sideBar toggle-cart ">
+            <div class="sideBar-close">
+                <i class="ri-close-line ri-2x closeBtn"></i>
+            </div>
+            <div class="cart-items">
+                <h3>Cart</h3>
+                <div class="test"></div>
+            </div>
+            <div class="sideBar-footer">
+                <div class="total-amount">
+                    <h3>Total</h3>
+                    <div >
+                        Rs <span class="cart-total">0.0</span>
+                    </div>
+                </div>
+                <button class="Checkout-btn">Checkout</button>
+
+            </div>
         </div>
         <!-- gsap cdn -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"
@@ -48,8 +68,8 @@
             integrity="sha512-Ic9xkERjyZ1xgJ5svx3y0u3xrvfT/uPkV99LBwe68xjy/mGtO+4eURHZBW2xW4SZbFrF1Tf090XqB+EVgXnVjw=="
             crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <!-- scroll trigger Cdn -->
-        
         <script src="script.js"></script>
+        <script src="cart.js"></script>
         <script src="gsap.js"></script>
 </body>
 

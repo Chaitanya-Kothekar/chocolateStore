@@ -1,0 +1,74 @@
+ [
+    {
+        "name": "Milk Peanuts Chocolate",
+        "id" : 0,
+        "src1": "./images/item1.png",
+        "price": "499"
+    },
+    {
+        "name": "Pastry Chef Fantasy",
+        "id" : 1,
+        "src1": "./images/item2.png",
+        "price": "499"
+    },
+    {
+        "name": "Truffle With Vanilla",
+        "id" : 2,
+        "src1": "./images/item3.png",
+        "price": "499"
+    },
+    {
+        "name": "Almond Dark Chocolate",
+        "id" : 3,
+        "src1": "./images/item4.png",
+        "price": "499"
+    },
+    {
+        "name": "Fruit Praline",
+        "id" : 4,
+        "src1": "./images/item5.png",
+        "price": "499"
+    },
+    {
+        "name": "Drunken Cherry Choco",
+        "id" : 5,
+        "src1": "./images/item5.png",
+        "price": "499"
+    },
+    {
+        "name": "Peppered Dark Chocolate",
+        "id" : 6,
+        "src1": "./images/item6.png",
+        "price": "499"
+    },
+    {
+        "name": "Dark Souffle Chocolate",
+        "id" : 7,
+        "src1": "./images/item8.png",
+        "price": "499"
+    },
+    {
+        "name": "rocketmania Choco ",
+        "id" : 8,
+        "src1": "./images/item10.png",
+        "price": "499"
+    },
+    {
+        "name": "Blaster 200g",
+        "id" : 9,
+        "src1": "./images/item13.png",
+        "price": "499"
+    },
+    {
+        "name": "choco cake Box 200g",
+        "id" : 10,
+        "src1": "./images/item14.png",
+        "price": "499"
+    },
+    {
+        "name": "Gold Bar Box 200g",
+        "id" : 11,
+        "src1": "./images/item15.png",
+        "price": "499"
+    }
+]
